@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Orange finance mobile sénégal**
 
-- 📫 How to reach me **diopawa@gmail.com**
+- 📫 How to reach me **diopawa425@gmail.com**
 
 - ⚡ Fun fact **spring boot, javascript, php, react, html,css**
 
