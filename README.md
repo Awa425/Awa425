@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Awa Diop</h1>
+<h1 align="center">Bonjour, je suis Awa Diop</h1>
 <h3 align="center">Développeuse full stack</h3>
 
-- 🔭 I’m currently working on **java, php, nodejs,**
+-  Je travaille actuellement sur **Laravel, Angular, Flutter et Spring Boot**
 
-- 🌱 I’m currently learning **spring boot, nodejs, php, react**
+-  J'approfondis mes compétences en **Spring Boot, Java, Docker et architecture microservices**
 
-- 👯 I’m looking to collaborate on **Orange finance mobile sénégal**
+-   Je cherche à collaborer sur **Des projets web et mobile innovants combinant Angular, Laravel ou Spring Boot**
 
-- 📫 How to reach me **diopawa425@gmail.com**
+-  Comment me contacter **diopawa192@gmail.com**
 
-- ⚡ Fun fact **spring boot, javascript, php, react, html,css**
+-  Fun fact **Je jongle au quotidien entre le Frontend (Angular), le Backend (Laravel, Spring Boot, Java, PHP), le Mobile (Flutter) et la gestion de projets (ClickUp, Trello) — full stack dans l'âme ! **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
